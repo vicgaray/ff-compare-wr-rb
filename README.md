@@ -1,4 +1,4 @@
-# ff-compare-wr-rb
+# Determine Fantasy Football Strategy
 We explore the best fantasy football strategy: a WR-RB or a double RB strategy for the first 2 rounds. We use data analytic skills to answer this question.
 
 This repo shows the sql script used to clean our data before exploring it. Duties included:
